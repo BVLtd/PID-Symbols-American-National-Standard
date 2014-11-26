@@ -504,7 +504,6 @@ table {
 
 body {
   font: 14px/22px "Quattrocento Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #666;
   font-weight: 300;
   margin: 0px;
   padding: 0px 0 20px 0px;
@@ -543,7 +542,7 @@ h3 {
 }
 
 a {
-  color: #3399cc;
+  color: #00A3FF;
   font-weight: 400;
   text-decoration: none;
 }
