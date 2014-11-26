@@ -1,4 +1,4 @@
-PID-Symbols-American-National-Standard-
+PID-Symbols-American-National-Standard
 =======================================
 The files published herewith are intended to provide a basis for developing a set of P&ID symbols based on the American National Standard (ANSI/ISA-5.1-2009).  This set includes only the current symbols used by Black & Veatch Limited in the UK for water industry related project work.  The attached files will allow a user to import the symbol artwork and create symbol components within the MicroStation environment.  Below is an explanation for each file type being published herewith:
 
