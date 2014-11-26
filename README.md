@@ -8,6 +8,8 @@ The files published herewith are intended to provide a basis for developing a se
   <li>MicroStation .cel files – These files contain the working drawing/artwork for each symbol and must be used in conjunction with MicroStation.  The .cel files must be “attached” to a drawing within MicroStation to allow the individual symbols to be placed on a drawing and/or manipulated (including creating intelligent components within Bentley OpenPlantPID).</li>
 </ol>
 
+Please note these cell libraries are drawn on grid settings of 2.5.
+
 ## Licensing
 Copyright 2014 Black & Veatch Ltd.
 
